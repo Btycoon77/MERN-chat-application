@@ -1,0 +1,25 @@
+-------pushing project to github-------
+ first create repository from the gihub account then procced with the following steps:
+
+
+1. navigate to the directory  by cd d:
+
+2. touch .gitignore
+
+3. the files that you dont want to push into github put in here
+
+4. by pressing node_modules/
+
+5. git init
+
+6. git add .
+
+7  git commit -m "Initial commit"
+
+8. git status
+
+
+10 . git remote add origin git@github.com:Btycoon77/Mern-Chat.git
+
+11. git push -u origin master
+
